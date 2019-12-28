@@ -1,0 +1,4 @@
+<meta>
+	<info author="suri" version="0.1" type="script" name="giverank" description="GiveRank" />
+    <script src="give.lua"/>
+</meta>
