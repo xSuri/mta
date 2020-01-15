@@ -1,7 +1,8 @@
 ﻿local messages = {
-    {"#ffcc00 ★ Jesli chciał byś wesprzeć serwer to możesz rzucić grosza ;) : * * "},
-    {"#ffcc00 ★ Serwerowy Discord :*"},
-	{"#ffcc00 ★ Serwerowe Forum :* "},
+    {"FirstMessages"},
+    {""},
+	{""},
+	{"..."},
 }
 
 function messTime ()
