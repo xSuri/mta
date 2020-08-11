@@ -1,8 +1,5 @@
 # MTA
-
-Wszystkie "skrypty" itp. należą do właściciela (suri/suri092004). Podpisywanie się pod nimi bez zgody właściciela jest zabronione. Można modyfikować, ściągać je przy czym trzeba podawać prawowitego ich twórce. Wszelkie moje projekty powstały nagle i ostrzegam że uczę się m.im. tego języka. Wszelkie moje projekty udostępnione są darmowe i można z nich swobodnie korzystać. Wszelkie błedy, lub propozycje można kierować do właściciela (czyli mnie). Miłego korzystania C:
-
-©Copyright 2020/2021 suri
+All "scripts" etc. belong to the owner (suri / suri092004). Signing them without the consent of the owner is prohibited. You can modify, download them and you have to give their rightful creator. All my projects arose suddenly and I am warning you that I am learning, among others. this language. All my designs are free and you can use them freely. Any errors or suggestions can be directed to the owner (i.e. me). Have a nice use of C: ©Copyright 2020/2021 suri MTA 2020
 
 # Info
-Ciągle udoskonalam własne umięjetności i póki co mało udostępniam jestem świadomy wielu możliwych błedów.
+I am constantly improving my own skills and so far I do not share my projects very much, I am aware of many possible errors.
